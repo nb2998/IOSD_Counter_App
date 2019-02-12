@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 //Contains Activity Lifecycle methods.
 //Code logic in .java file and layout logic in xml file.
+//Log class in android is used to print in the IDE like cout in cpp or syso in java
+//To see the function definition of the funcation, bring the pointer on that funcation and press ctrl+click on it.
 
 public class MainActivity extends AppCompatActivity {
 
